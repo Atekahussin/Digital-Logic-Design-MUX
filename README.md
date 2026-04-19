@@ -12,7 +12,6 @@ The 8x1 MUX uses **3 select lines** ($S_2, S_1, S_0$) to choose between **8 inpu
 
 ![8x1 Multiplexer Circuit Diagram](./Design/mux_design.png)
 
-
 ### Boolean Equation:
 The output $Y$ is defined by the following logic:
 $$Y = (S_2' S_1' S_0' I_0) + (S_2' S_1' S_0 I_1) + (S_2' S_1 S_0' I_2) + (S_2' S_1 S_0 I_3) + (S_2 S_1' S_0' I_4) + (S_2 S_1' S_0 I_5) + (S_2 S_1 S_0' I_6) + (S_2 S_1 S_0 I_7)$$
