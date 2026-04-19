@@ -10,7 +10,7 @@ In digital systems, a **Multiplexer (MUX)** is a device that selects one of seve
 ## ⚙️ Logic Specification
 The 8x1 MUX uses **3 select lines** ($S_2, S_1, S_0$) to choose between **8 input lines** ($I_0$ to $I_7$).
 
-![8x1 Multiplexer Circuit Diagram](./Design/"C:\Users\ateka\OneDrive\المستندات\GitHub\Digital-Logic-Design-MUX\Design\mux_design.png")
+![8x1 Multiplexer Circuit Diagram](C:\Users\ateka\OneDrive\المستندات\GitHub\Digital-Logic-Design-MUX\Design\mux_design.png)
 
 
 ### Boolean Equation:
